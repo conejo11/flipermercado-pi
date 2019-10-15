@@ -24,4 +24,4 @@ The project is designed to be run on a [Raspberry Pi](https://www.raspberrypi.or
 MIT
 
 
-**Free Software, Hell Yeah!**
+**Free Software, Hell Yeah times two!**
